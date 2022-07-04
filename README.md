@@ -1,3 +1,3 @@
 # DotEvolution
 
-Just a small project im working on for fun :D
+Just a small project I'm working on for fun :D
